@@ -1,0 +1,16 @@
+.surname {
+    color: aqua;
+}
+.name {
+    color: aquamarine;
+}
+.patronymic {
+    color: bisque;
+}
+.block {
+    display: flex;
+    gap: 10px;
+}
+.name:hover {
+    color: blue;
+}
